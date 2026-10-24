@@ -1,0 +1,5 @@
+interface:
+  display_name: "maintain-readme-arch-md"
+  short_description: "readme.arch.mdを点検・新設・更新し、コードの構造把握にかかる認知コストを減らす"
+policy:
+  allow_implicit_invocation: false
